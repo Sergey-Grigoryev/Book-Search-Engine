@@ -1,1 +1,7 @@
-# Book Search Engine Starter Code
+# Book Search Engine
+
+## Technologies used:
+
+- node.js
+- Apollo Server
+- Express
